@@ -1,0 +1,42 @@
+LOGIN PAGE - BASIC DESCRIPTION (PYTHON ONLY)
+
+1. INTRODUCTION
+A login page is used to authenticate users by checking their username and password.
+In this basic version, the login system is created using only Python and runs in the console.
+
+2. PURPOSE
+- Verify user identity
+- Allow access only to authorized users
+- Prevent unauthorized usage
+
+3. COMPONENTS USED
+- Username (text input)
+- Password (text input)
+- Condition checking (if-else)
+
+4. WORKING PROCESS
+1. The program asks the user to enter a username.
+2. The program asks the user to enter a password.
+3. The entered values are compared with stored values.
+4. If both match, login is successful.
+5. If not, an error message is shown.
+
+5. ADVANTAGES
+- Easy to understand
+- Beginner friendly
+- No external libraries required
+- Works with only Python
+
+6. LIMITATIONS
+- Runs only in console
+- Password is visible while typing
+- Not secure for real applications
+
+7. FUTURE IMPROVEMENTS
+- Hide password input
+- Store data in file or database
+- Create GUI or web-based login
+- Add multiple users
+
+8. CONCLUSION
+This basic Python login system is useful for learning authentication logic and is a good starting point for beginners.
